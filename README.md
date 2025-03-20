@@ -121,8 +121,8 @@ VALUE p1 2
 
 1. **Клонирование репозитория**:
  ```bash 
- git clone https://github.com/yourusername/yourrepository.git 
- cd yourrepository
+ git clone [https://github.com/Acloudy55/lab1.git]
+ cd lab1
  ```
 2. **Компиляция** и **запуск**:
 ```bash
